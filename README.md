@@ -1,3 +1,3 @@
 # git-hub-demo
 this is my first repository.
-author - shanu 
+author - shanu  
